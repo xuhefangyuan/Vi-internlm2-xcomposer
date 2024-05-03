@@ -1,4 +1,6 @@
 ## 🌟 Vi-InternLM2-Xcpmposer多模态越南语大语言模型 🌟
+[![Open in OpenXLab](https://cdn-static.openxlab.org.cn/header/openxlab_models.svg)](https://openxlab.org.cn/models/detail/uuuii/internLM2-Vietnamese)  
+        [![Open in OpenXLab](https://cdn-static.openxlab.org.cn/app-center/openxlab_app.svg)](https://openxlab.org.cn/apps/detail/uuuii/internLM2-vi)
 
 **Vi-InternLM2-Xcpmposer多模态越南语大语言模型**（以下简称Vi-InternLM2-Xcpmposer模型）是一个专门针对越南语进行优化的多模态大语言模型，旨在提升越南语的文本生成、翻译及图文理解性能。本模型集成了高级权重量化（AWQ）算法和高效推理引擎（TurboMind），显著提高处理越南语的准确性和效率。
 ### 🚀 更新日志（希望平台大佬能给予本项目算力支持到5月底，毕业论文答辩结束）
