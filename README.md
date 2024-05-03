@@ -6,7 +6,7 @@
 
 2024年5月1日把微调好的Vi-InternLM-Xcomposer2上传，模型网址如下：https://openxlab.org.cn/models/detail/uuuii/internLM-Xcomposer-2-Vietnamese/tree/main
 
-2024年5月3日把微调好的Vi-InternLM2-7B进行应用搭建，搭建好的应用可进行在线使用体验，网址如下：https://openxlab.org.cn/apps/detail/uuuii/internLM2-vi，欢迎点赞收藏。
+2024年5月3日把微调好的Vi-InternLM2-7B进行应用搭建，搭建好的应用可进行在线使用体验，网址如下（欢迎点赞收藏）：https://openxlab.org.cn/apps/detail/uuuii/internLM2-vi
 
 ### 🚀 模型特点
 
